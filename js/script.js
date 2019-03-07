@@ -1,5 +1,6 @@
 'use strict';
 
+var mario = "mario";
 var giuseppe = "giuseppe";
 var alessio = "alessio";
 var davide = "davide";
